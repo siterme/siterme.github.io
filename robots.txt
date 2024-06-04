@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siterme.github.io/sitemap.html
+Sitemap: https://siterme.github.io/app/sitemap.html
+Sitemap: https://siterme.github.io/assets/sitemap.html
+Sitemap: https://siterme.github.io/includes/sitemap.html
+Sitemap: https://siterme.github.io/src/sitemap.html
